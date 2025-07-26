@@ -1,6 +1,6 @@
 # Natural Language Processing with NLTK & spaCy
 
-This repository is an internship project undertaken by **Kuvam** as part of a winter internship.  The goal of the project was to explore a variety of Natural Language Processing (NLP) tasks using two of the most widely‑used Python libraries: **NLTK** and **spaCy**.  Through a series of hands‑on Jupyter notebooks you’ll see how basic text processing, language identification, tokenization, part‑of‑speech tagging, classification and sentiment analysis are implemented with NLTK, and how more advanced processing pipelines and custom models are built using spaCy.
+This repository is an internship project undertaken as part of a winter internship.  The goal of the project was to explore a variety of Natural Language Processing (NLP) tasks using two of the most widely‑used Python libraries: **NLTK** and **spaCy**.  Through a series of hands‑on Jupyter notebooks you’ll see how basic text processing, language identification, tokenization, part‑of‑speech tagging, classification and sentiment analysis are implemented with NLTK, and how more advanced processing pipelines and custom models are built using spaCy.
 
 ## Repository structure
 
