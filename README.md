@@ -24,17 +24,17 @@ The `notebook/nltk` folder contains a set of Jupyter notebooks that gradually in
 
 | Notebook | Description |
 |---|---|
-| **1‑1‑Downloading‑Libs‑ and‑Testing‑That‑They‑Are‑Working.ipynb** | A short notebook to verify that NLTK and other dependencies install correctly. |
-| **1‑2‑Text‑Analysis‑Using ‑nltk.text.ipynb** | Introduces the `nltk.text` module for concordance and dispersion plots to explore word usage in corpora. |
-| **2‑1‑Deriving‑N‑Grams‑f rom‑Text.ipynb** | Demonstrates how to create n‑grams from a tokenized sentence and explains what n‑grams represent. |
-| **2‑2‑Detecting‑Text‑ Language‑by‑Counting‑Stop‑Words.ipynb** | Shows how to detect the language of a piece of text by comparing stop‑word frequencies across languages. |
-| **2‑3‑Language‑Identifier‑ Using‑Word‑Bigrams.ipynb** | Builds a simple language identifier using word bigrams and frequency counts. |
-| **3‑1‑Bigrams‑Stemming‑ and‑Lemmatizing.ipynb** | Explores the Reuters corpus and demonstrates bigrams, stemming and lemmatization. |
-| **3‑2‑Finding‑Unusual‑ Words‑in‑Given‑Language.ipynb** | Uses word frequency analysis to find unusual or foreign words in a text. |
-| **3‑3‑Creating‑a‑POS‑ Tagger.ipynb** | Shows how to train and evaluate a custom part‑of‑speech (POS) tagger. |
-| **3‑4‑Parts‑of‑Speech ‑and‑Meaning.ipynb** | Investigates the connection between POS tags and semantics, using NLTK’s WordNet. |
-| **4‑1‑Name‑Gender‑ Identifier.ipynb** | Builds a Naïve Bayes classifier to predict a person’s gender from their name. |
-| **4‑2‑Classifying‑News ‑Documents‑into‑Categories.ipynb** | Applies machine‑learning methods to categorize Reuters news articles into topics. |
+| **1‑1‑Downloading‑Libs ‑ and‑Testing‑That‑They‑Are‑Working.ipynb** | A short notebook to verify that NLTK and other dependencies install correctly. |
+| **1‑2‑Text‑Analysis‑Using ‑ nltk.text.ipynb** | Introduces the `nltk.text` module for concordance and dispersion plots to explore word usage in corpora. |
+| **2‑1‑Deriving‑N‑Grams ‑ from‑Text.ipynb** | Demonstrates how to create n‑grams from a tokenized sentence and explains what n‑grams represent. |
+| **2‑2‑Detecting‑Text ‑ Language‑by‑Counting‑Stop‑Words.ipynb** | Shows how to detect the language of a piece of text by comparing stop‑word frequencies across languages. |
+| **2‑3‑Language‑Identifier ‑ Using‑Word‑Bigrams.ipynb** | Builds a simple language identifier using word bigrams and frequency counts. |
+| **3‑1‑Bigrams‑Stemming ‑ and‑Lemmatizing.ipynb** | Explores the Reuters corpus and demonstrates bigrams, stemming and lemmatization. |
+| **3‑2‑Finding‑Unusual ‑ Words‑in‑Given‑Language.ipynb** | Uses word frequency analysis to find unusual or foreign words in a text. |
+| **3‑3‑Creating‑a‑POS ‑ Tagger.ipynb** | Shows how to train and evaluate a custom part‑of‑speech (POS) tagger. |
+| **3‑4‑Parts‑of‑Speech ‑ and‑Meaning.ipynb** | Investigates the connection between POS tags and semantics, using NLTK’s WordNet. |
+| **4‑1‑Name‑Gender ‑ Identifier.ipynb** | Builds a Naïve Bayes classifier to predict a person’s gender from their name. |
+| **4‑2‑Classifying‑News ‑ Documents‑into‑Categories.ipynb** | Applies machine‑learning methods to categorize Reuters news articles into topics. |
 | **5‑1‑Sentiment‑Analysis.ipynb** | Introduces sentiment analysis on text using NLTK’s built‑in tools. |
 | **5‑2‑Sentiment‑Analysis‑with‑nltk.sentiment.SentimentAnalyzer‑and‑VADER‑tools.ipynb** | Shows how to use NLTK’s `SentimentAnalyzer` and the VADER lexicon to perform fine‑grained sentiment analysis. |
 
