@@ -36,7 +36,7 @@ The `notebook/nltk` folder contains a set of Jupyter notebooks that gradually in
 | **4‑1‑Name‑Gender ‑ Identifier.ipynb** | Builds a Naïve Bayes classifier to predict a person’s gender from their name. |
 | **4‑2‑Classifying‑News ‑ Documents‑into‑Categories.ipynb** | Applies machine‑learning methods to categorize Reuters news articles into topics. |
 | **5‑1‑Sentiment‑Analysis.ipynb** | Introduces sentiment analysis on text using NLTK’s built‑in tools. |
-| **5‑2‑Sentiment‑Analysis‑with‑nltk.sentiment.SentimentAnalyzer‑and‑VADER‑tools.ipynb** | Shows how to use NLTK’s `SentimentAnalyzer` and the VADER lexicon to perform fine‑grained sentiment analysis. |
+| **5‑2‑Sentiment‑Analysis ‑ with‑nltk.sentiment.SentimentAnalyzer‑and‑VADER‑tools.ipynb** | Shows how to use NLTK’s `SentimentAnalyzer` and the VADER lexicon to perform fine‑grained sentiment analysis. |
 
 
 ### spaCy mini‑course
